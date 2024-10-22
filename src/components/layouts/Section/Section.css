@@ -1,0 +1,25 @@
+
+.containerSection{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+   
+}
+
+.imgUser{
+    height: 350px;
+    border-radius: 50%;
+    transition: transform 0.5s ease;
+}
+.imgUser:hover{
+    transform: scale(1.1); /* Aumenta el tamaño de la imagen al pasar el mouse */
+  }
+
+.Divtext{
+    width: 500px;
+}
+.TextSection{
+    font-size: 70px;
+    font-weight: bold;
+}
