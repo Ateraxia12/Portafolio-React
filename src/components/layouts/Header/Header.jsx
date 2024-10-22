@@ -1,8 +1,8 @@
 import React from 'react'
-import NavHeader from '../NavHeader/NavHeader'
+import {NavHeader} from '../NavHeader/NavHeader'
 import '../Header/Header.css'
 
-export default function Header() {
+export const Header = () => {
   return (
     <header className='DivHeader'>
         <div>

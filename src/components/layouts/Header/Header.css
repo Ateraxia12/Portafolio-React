@@ -2,13 +2,15 @@
 
 .DivHeader{
     display: flex;
-    justify-content: space-evenly;
+    height: 100px;
+    justify-content: space-around;
     align-items: center;
-    border-bottom: 7px solid #9b1f53;
+    border-bottom: 7px solid #17C3B2;
     margin-top: 0rem;
 
 }
 
 .h1Header{
+    font-size: 50px;
     color: aliceblue;
 }

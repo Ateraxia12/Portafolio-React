@@ -1,7 +1,7 @@
 import React from 'react'
-import UlNavHeader from '../../Ui/UlNavHeader/UlNavHeader'
+import {UlNavHeader} from '../../Ui/UlNavHeader/UlNavHeader'
 
-export default function NavHeader() {
+export const NavHeader = () => {
   return (
     <div>
       <UlNavHeader/> 
