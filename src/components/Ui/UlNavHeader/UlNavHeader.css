@@ -13,3 +13,7 @@ ul li a{
     text-decoration: none;
     color: white;
 }
+ul li a:hover{
+    border-bottom: 5px solid #17C3B2;
+    border-radius: 10px;
+}
