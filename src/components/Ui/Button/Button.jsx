@@ -6,7 +6,7 @@ export const Button = ({ texto, onClick }) => {
   return (
     <div>
         
-        <button className='button1' onClick={onClick}>
+        <button className='button' onClick={onClick}>
             {texto='Vamos'}
         </button>
        

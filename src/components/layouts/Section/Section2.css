@@ -1,0 +1,29 @@
+
+.containerSection2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container1Section2{
+    height: 400px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.h1ContainerSection2{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.divButton{
+    margin-left: 45px;
+    
+   
+}
