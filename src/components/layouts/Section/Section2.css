@@ -10,10 +10,12 @@
     width: 300px;
     display: flex;
     justify-content: center;
-    
+    margin-top: 50px;
     flex-direction: column;
     background-color: rgb(255, 255, 255);
-    border-radius: 10px;
+    border-radius: 25px;
+    border: solid 1px #000000;
+    box-shadow:2px 2px 20px 2px #00A97F, -5px -5px 10px rgba(0, 0, 0, 0.2);
 }
 .h1ContainerSection2{
     margin-bottom: 20px;
@@ -26,4 +28,8 @@
     margin-left: 45px;
     
    
+}
+
+.pContainarSection2{
+    text-align: center;
 }

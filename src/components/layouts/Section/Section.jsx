@@ -1,5 +1,5 @@
 import React from 'react'
- import logo from '../../../assets/images/user-icon-profile-icon.jpg'
+ import yotas from '../../../assets/images/yotas.jpg'
  import '../Section/Section.css'
  import { Button } from '../../Ui/Button/Button'
 
@@ -16,7 +16,7 @@ export default function Section() {
     
       </div>
       <div>
-      <img className='imgUser' src={logo} alt="Logo" />
+      <img className='imgUser' src={yotas} alt="yotas" />
       </div>
 
       
