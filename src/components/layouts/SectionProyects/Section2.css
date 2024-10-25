@@ -1,10 +1,19 @@
 
+.ConteinerPrincipal{
+display: flex;
+justify-content: space-evenly;
+border-top: 7px solid #00A97F;
+}
 .containerSection2{
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: transform 1s ease;
 }
 
+.containerSection2:hover{
+    transform: scale(1.1);
+}
 .container1Section2{
     height: 400px;
     width: 300px;
@@ -33,3 +42,4 @@
 .pContainarSection2{
     text-align: center;
 }
+
