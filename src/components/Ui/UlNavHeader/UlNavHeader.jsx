@@ -9,7 +9,7 @@ export const UlNavHeader = (enlace , texto) => {
       <ul>
         <li><a href={enlace=''}> {texto='Inicio'}</a></li> 
         <li><a href={enlace='../../Pages/QuienSoy/QuienSoy'}> {texto='Quien soy?'}</a></li> 
-        <li><a href={enlace=''}> {texto='Trabajos echos'}</a></li> 
+        <li><a href={enlace=''}> {texto='Trabajos hechos'}</a></li> 
         <li><a href={enlace=''}> {texto='Conocimientos'}</a></li> 
       </ul>
     </div>

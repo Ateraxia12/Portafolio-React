@@ -7,7 +7,10 @@ export const Header = () => {
     <header className='DivHeader'>
         <div>
             <h1 className='h1Header'>Stiven Parra </h1>
-            <h1 className="marquee">¡Bienvenidos!</h1>
+        </div>
+
+        <div>
+        <h1 className="marquee">¡Bienvenidos!</h1>
         </div>
       <nav>
         

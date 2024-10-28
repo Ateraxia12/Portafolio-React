@@ -7,7 +7,7 @@ export const Button = ({ texto, onClick }) => {
     <div>
         
         <button className='button' onClick={onClick}>
-            {texto='Vamos'}
+            {texto='Ver mas'}
         </button>
        
    
