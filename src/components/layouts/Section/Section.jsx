@@ -7,8 +7,6 @@ export default function Section() {
   return (
     <>
 
-
-      
         <div className="containerSection">
           <div className='Divtext'>
             <p className='TextSection'> Creatividad que habla por sí misma </p>

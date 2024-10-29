@@ -7,7 +7,6 @@ border-top: 7px solid #00A97F;
 .containerSection2{
     display: flex;
     justify-content: center;
-    align-items: center;
     transition: transform 1s ease;
 }
 
@@ -21,17 +20,28 @@ border-top: 7px solid #00A97F;
     justify-content: center;
     margin-top: 50px;
     flex-direction: column;
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.705);
     border-radius: 25px;
     border: solid 1px #000000;
     box-shadow:2px 2px 20px 2px #00A97F, -5px -5px 10px rgba(0, 0, 0, 0.2);
 }
-.h1ContainerSection2{
+.imgProyec2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    height:49%;
+    border-radius: 30px 30px 0px 0px;
+}
+.DivimgProyec2{
+    
+}
+/* .h1ContainerSection2{
     margin-bottom: 20px;
     display: flex;
     justify-content: center;
     
-}
+} */
 
 .divButton{
     margin-left: 45px;
@@ -40,6 +50,6 @@ border-top: 7px solid #00A97F;
 }
 
 .pContainarSection2{
-    text-align: center;
+   
 }
 
